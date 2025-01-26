@@ -1,6 +1,8 @@
-# Gazi's Work-in-Progress
+# Wesleyan Argus Latest Codebase
 
-This is a temporary continuation of the Abraham Lincoln theme built for the Wesleyan Argus, the premier campus newspaper at Wesleyan University. The website is built on Wordpress and is due for many updates. I really can't wait.
+## Below is the codebase source for The Wesleyan Argus retrieved from Gazi (previous web editor from 2 years ago) and is currently a work in progress: 
+
+This is a temporary continuation of the Abraham Lincoln theme built for the Wesleyan Argus, the premier campus newspaper at Wesleyan University. 
 
 The original website template can be found at https://github.com/wesleyanargus/abraham-lincoln
 
